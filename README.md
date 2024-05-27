@@ -4,15 +4,14 @@
 
 ### Resumo do Projeto:
 
-O presente projeto foi desenvolvido com o objetivo de atender aos requisitos de um processo de seleção promovido pelo Itaú Unibanco. A iniciativa visa demonstrar habilidades e competências técnicas e comportamentais necessárias para a posição em questão, destacando a capacidade de desenvolver soluções eficazes e inovadoras para os clientes do mercado financeiro.
+Este projeto foi desenvolvido com o objetivo de atender à premissas de um processo seletivo, promovido pelo Itaú Unibanco. O intuito é demonstrar habilidades, competências técnicas e comportamentais, que são necessárias para a posição, destacando a capacidade de desenvolver soluções eficazes e inovadoras para a empresa.
 
 ### Apresentação:
 
-Eu sou **Letícia Bernal**, estudante de Tecnologia da Informação, e para desenvolver esse projeto eu usei os computadores do laboratório de informática da Universidade Estado de São Paulo. Esta oportunidade abrirá oportunidade para que eu possa custear meus estudos e comprar um computador para me desenvolver ainda mais como desenvolvedores de software.
-
+Olá! Me chamo **Letícia Bernal**, tenho 22 anos, sou estudante de Gestão de Tecnologia da Informação na UNICID e estou no 2°semenstre.
 LinkedIn: https://www.linkedin.com/in/lelebernal/
 
-### Tecnologias:
+### Tecnologias usadas:
 
 - Angular CLI: 16.2.14
 - Node: 18.20.3
@@ -84,14 +83,15 @@ http://localhost:4200/
 Para sugerir uma arquitetura eu precisei fazer um estudo e usei vários vídeos e artigos como referência, destaco o link: <br>
 https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/patterns/deploy-a-react-based-single-page-application-to-amazon-s3-and-cloudfront.html
 
-![Texto Alternativo](https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/patterns/images/pattern-img/970a9d13-e8a2-44ac-aca5-a066e4be60e8/images/96061e05-8ac8-446e-b1da-baa6fc1cc7b6.png)
+<img width="5184" alt="aws front" src="https://github.com/leticiabernaldev/itau-angular-authentication-front/assets/170205092/a4ace78b-3053-4e5a-833c-34d75f264e69">
 
 - O cliente faz uma requisição que bate no CloudFront
 - O serviço Amazon Route 53, será utilizado para configurar o DNS
-- E o frontend ficará em um Bucket S3
+- E o Frontend ficará em um Bucket S3
 
 ### Conclusão
 
-Agradeço imensamente a oportunidade que estou tendo de participar desse processo e estou estudando com muita dedicação para conhecer outras abordagens de hospedar apps Angular na AWS e também para aplicar com consistências boas práticas de orientação a objeto, Cleand Code e etc no desenvolvimento dos meus projetos.
+Este template foi baseado em meus breves estudos em API, AWS, aplicação com consistências, boas práticas de orientação a objeto, Cleand Code entre outros...
+Desde já agradeço a oportunidade!
 
 <hr>
