@@ -92,6 +92,6 @@ https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/patterns/deploy-a
 ### Conclusão
 
 Este template foi baseado em meus breves estudos em API, AWS, aplicação com consistências, boas práticas de orientação a objeto, Cleand Code entre outros...
-Desde já agradeço a oportunidade!
+Desde já, agradeço a oportunidade!
 
 <hr>
