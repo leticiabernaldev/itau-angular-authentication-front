@@ -83,7 +83,7 @@ http://localhost:4200/
 Para sugerir uma arquitetura eu precisei fazer um estudo e usei vários vídeos e artigos como referência, destaco o link: <br>
 https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/patterns/deploy-a-react-based-single-page-application-to-amazon-s3-and-cloudfront.html
 
-<img width="5184" alt="aws front" src="https://github.com/leticiabernaldev/itau-angular-authentication-front/assets/170205092/a4ace78b-3053-4e5a-833c-34d75f264e69">
+<img width="5184" alt="aws front (1)" src="https://github.com/leticiabernaldev/itau-angular-authentication-front/assets/170205092/8ae64166-bfb4-44c9-a310-52866ba09862">
 
 - O cliente faz uma requisição que bate no CloudFront
 - O serviço Amazon Route 53, será utilizado para configurar o DNS
